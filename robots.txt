@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+
+# 站点地图
+Sitemap: https://blog.finical.online/sitemap.xml
+Sitemap: https://blog.finical.online/sitemap.txt
+
+# 搜索引擎
+User-agent: Googlebot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# 不抓取隐私/工具路径
+Disallow: /js/
+Disallow: /css/
+Disallow: /img/random/
+Disallow: /*.json$

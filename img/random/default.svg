@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 480" width="1920" height="480" preserveAspectRatio="xMidYMid slice">
+  <rect width="1920" height="480" fill="#0f2027"/>
+  <rect x="0" y="0" width="1920" height="240" fill="#1a3a5c" opacity="0.5"/>
+  <rect x="0" y="320" width="1920" height="160" fill="#0a1820" opacity="0.5"/>
+  <circle cx="1498" cy="154" r="40" fill="#fff7c8"/>
+  <g fill="#ffffff" opacity="0.5">
+    <circle cx="180" cy="80" r="1.5"/>
+    <circle cx="320" cy="180" r="1"/>
+    <circle cx="540" cy="100" r="1.2"/>
+    <circle cx="780" cy="220" r="1"/>
+    <circle cx="960" cy="120" r="1.5"/>
+    <circle cx="1240" cy="200" r="1"/>
+    <circle cx="1680" cy="280" r="1.2"/>
+    <circle cx="1800" cy="200" r="1.5"/>
+    <circle cx="420" cy="320" r="1"/>
+    <circle cx="880" cy="380" r="1.2"/>
+    <circle cx="1100" cy="360" r="1"/>
+  </g>
+  <g transform="translate(960, 280)" text-anchor="middle" fill="#ffffff" font-family="PingFang SC, -apple-system, sans-serif">
+    <text y="0" font-size="72" font-weight="700" letter-spacing="0.05em" fill-opacity="0.95">在折腾中记录</text>
+    <text y="80" font-size="24" font-weight="400" fill-opacity="0.7" letter-spacing="0.15em">Quant · Code · Notes</text>
+  </g>
+</svg>
